@@ -2,6 +2,8 @@
 
 Course number: 20253491
 
+Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=186:30:::NO::pid,pprev:15125,14987)
+
 ## Students
 
 | Home page | Repo | Assignments | Project | Status |
