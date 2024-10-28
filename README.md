@@ -44,6 +44,16 @@ You can get inspiration from the projects [listed here](https://code-maven.com/p
 and the [projects of the 2023 autumn semester](https://github.com/szabgab/wis-python-bootcamp-2023-12)
 or those of [2024 spring semester](https://github.com/szabgab/wis-python-course-2024-04).
 
+### Expected workload
+
+In addition to the lectures you will spend about 2-4 hours / week on the assignments and 20-40 hours on the project.
+
+The actual time spent will greatly depend on your previous experience with programming in general and Python in particular.
+
+The time you spend on the project will also depend on the availability of the data you work on.
+If you pick a project that you would want to do anyway then this is basically time you would spend anyway.
+
+
 ### Grades
 
 * Each assignment counts as 5% (we will have 10 of them).
