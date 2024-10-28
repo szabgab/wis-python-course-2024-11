@@ -88,9 +88,11 @@ follow that channel as well.
 
 ### Language
 
-The standard language of WIS and of this course is English.
+The default teaching language of WIS and of this course is English.
 
-However, when on one-on-one conversions I'd be happy to speak in Hebrew, Hungarian, Spanish, or Ladino as well.
+In writing please stick to English.
+
+If and when we have one-on-one conversions I'd be happy to speak in Hebrew, Hungarian, Spanish, or Ladino as well.
 
 ### Bring your own computer!
 
