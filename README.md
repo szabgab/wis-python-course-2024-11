@@ -110,5 +110,17 @@ There is no need to install anything up front. We'll do that during the lectures
 
 ## Day 1
 
+### Plan
+
+* Self introduction
+* Overview of the course
+* Programming
+    * The language: [Python](https://www.python.org/)
+    * 3rd party libraries on [PyPI](https://pypi.org/) e.g. [Biopython](https://biopython.org/).
+    * On GitHub
+* Version control
+* [GitHub](https://github.com/)
+* GitHub pages
+
 ### Assignment (day 1)
 

@@ -24,9 +24,7 @@ This is a beginner course suitable for anyone wanting to process scientific data
 
 
 
-* Writing command line application in Python.
 
-* Python primitive types
 
 
 ## Introduction to Computers and Programming
@@ -55,11 +53,11 @@ This is a beginner course suitable for anyone wanting to process scientific data
 
 ## The Scientific libraries
 
-* NumPy
-* Pandas
-* SciPy
-* Matplotlib
-* Seaborn
+* [NumPy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [SciPy](https://scipy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
 * Comparing with Matlab and R
 
 ## Introduction to Python
@@ -70,7 +68,7 @@ This is a beginner course suitable for anyone wanting to process scientific data
 * Documentation and how to get help?
 * Indentation
 
-## Types and operators
+## Python Types and operators
 
 * Strings
 * Numbers
@@ -78,6 +76,12 @@ This is a beginner course suitable for anyone wanting to process scientific data
 * Tuples
 * Dictionaries (hashes)
 * Sorting
+
+## Writing command line application in Python.
+
+* Why not GUI?
+* `sys.argv`
+* `argparse`
 
 ## Functions subroutines
 
@@ -100,7 +104,7 @@ This is a beginner course suitable for anyone wanting to process scientific data
 * Enumerate
 * Boolean and logical operators
 
-## IO:
+## IO
 
 * print
 * print formatting
@@ -143,24 +147,32 @@ This is a beginner course suitable for anyone wanting to process scientific data
 * The final block
 * Creating your own exception
 
+## Excel and CSV
+
+* Reading and writing Excel files
+* `csv`
+* `openpyxl`
+* `pandas`
+
+## GUI using Tk
+
+* The concept of creating a Graphical User Interface (GUI).
+* Demo various widgets of Tk.
+* Simple example.
+
 ## Additional uses
 
 * Installing and using 3rd party modules
 * Writing simple web scraping program
 * Writing a simple Web application
 * Accessing SQL databases
-* Reading and writing Excel files
-
-## Extra topics:
-
-* Basic complexity calculation.
 
 ## Learning Outcomes
 
-Upon successful completion of this course students should be able to:
+Upon successful completion of this course students should be able to
 
-    Write simple data processing programs in Python
-    Convert files from one format to another format required in scientific environments.
-    Difrantiate between major programming environments.
+* Write simple data processing programs in Python
+* Convert files from one format to another format required in scientific environments.
+* Differentiate between major programming environments.
 
 
