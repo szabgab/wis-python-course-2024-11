@@ -9,6 +9,10 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 
+## Lecturer
+
+* [Gábor Szabó](https://szabgab.com/)
+
 ## Teaching Assistants
 
 * [Hadar Klimovski](https://hadarklimovski.github.io/)
@@ -32,13 +36,15 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 
 ### Content - TBD
 
+[SYLLABUS]
+
 * Version control with git and using GitHub.
 * Dealing with projects on GitHub.  (eg. biopython)
 * Creating GitHub pages.
 * Writing nice documents using Markdown.
 * What is programming?
 
-Various ways to write Python code
+* Various ways to write Python code
     * VS Code - application developmen
     * Jupyter Notebook - Analyzing data in an interactive way
     * Notepad++
