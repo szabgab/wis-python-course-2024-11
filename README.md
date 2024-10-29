@@ -20,6 +20,8 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 
 ## Plan
 
+[SYLLABUS](SYLLABUS.md)
+
 ### Schedule
 
 * [Day 1](#Day-1) 2024.11.03 9:15-12:00
@@ -33,30 +35,6 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 * Hanukkah
 * [Day 9](#Day-9) 2025.01.05 9:15-12:00
 * [Day 10](#Day-10) 2025.01.12 9:15-12:00
-
-### Content - TBD
-
-[SYLLABUS]
-
-* Version control with git and using GitHub.
-* Dealing with projects on GitHub.  (eg. biopython)
-* Creating GitHub pages.
-* Writing nice documents using Markdown.
-* What is programming?
-
-* Various ways to write Python code
-    * VS Code - application developmen
-    * Jupyter Notebook - Analyzing data in an interactive way
-    * Notepad++
-    * Spyder
-
-
-* Writing command line application in Python.
-
-* Python primitive types
-
-
-
 
 ### Assignments
 

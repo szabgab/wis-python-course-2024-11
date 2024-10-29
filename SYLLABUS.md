@@ -16,8 +16,22 @@ This is a beginner course suitable for anyone wanting to process scientific data
 * Experience with a text editor similar to notepad.
 * Understanding of files and directories.
 
+## Version control with git and using GitHub
+
+* Dealing with projects on GitHub.  (eg. biopython)
+* Creating GitHub pages.
+* Writing nice documents using Markdown.
+
+
+
+* Writing command line application in Python.
+
+* Python primitive types
+
+
 ## Introduction to Computers and Programming
 
+* What is programming?
 * The parts of a computer and a mobile phone
 * Different types of programming languages: Compiled vs. Interpreted
 * Programming paradigms: imperative, procedural, oop, declarative, functional, logic, mathematical.
@@ -28,11 +42,14 @@ This is a beginner course suitable for anyone wanting to process scientific data
 
 ## Development and runtime environment in Python and elsewhere
 
-* Notepad++ and the command line.
-* VS Code
-* PyCharm
-* Jupyter notebook
-* Spider
+* Various ways to write Python code
+
+* [VS Code](https://code.visualstudio.com/) - application development.
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Jupyter](https://jupyter.org/) Notebook - Analyzing data in an interactive way
+* [Notepad++](https://notepad-plus-plus.org/) and the command line.
+* [Spyder](https://www.spyder-ide.org/)
+
 * Running from the IDE vs. the command line vs. on a server vs. in a cluster.
 * Compare the above with Matlab.
 
