@@ -131,8 +131,10 @@ There is no need to install anything up front. We'll do that during the lectures
 ### Assignment (day 1)
 
 * If you don't have one yet create an account on GitHub.
-* Create nice page based on gitHub pages. Include information about yourself, your studies. Link to the institution and to my home page https://szabgab.com/
+* Upload a picture of you or some avatar to your account.
+* Create a nice page based on GitHub pages. Include information about yourself, your studies, your hobbies. Link to the institution and to my home page https://szabgab.com/ .
 * Open an issue on our repository, the title should be "1st assignment of YOUR NAME"  (put your name instead of YOUR NAME) and in the issue link to your web site and to your repository.
+* The TAs will respond to the issue and I'll add a link to your site to the README of the repository of the course.
 
 * Dead-line: 2024.11.06 24:00
 
