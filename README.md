@@ -108,9 +108,7 @@ You are expected to bring your own computer to the lectures.
 
 There is no need to install anything up front. We'll do that during the lectures.
 
-## Day 1
-
-### Plan
+## Day 1 - GitHub, GitHub Pages
 
 * Self introduction
 * Overview of the course
@@ -122,5 +120,21 @@ There is no need to install anything up front. We'll do that during the lectures
 * [GitHub](https://github.com/)
 * GitHub pages
 
+* https://python.org.il/
+* https://kantoniko.com/
+
+* Parts of a computer
+    * memory(RAM) vs Hard disk (or SSD)
+    * CPU (speed, number of cores)
+    * GPU
+
 ### Assignment (day 1)
+
+* If you don't have one yet create an account on GitHub.
+* Create nice page based on gitHub pages. Include information about yourself, your studies. Link to the institution and to my home page https://szabgab.com/
+* Open an issue on our repository, the title should be "1st assignment of YOUR NAME"  (put your name instead of YOUR NAME) and in the issue link to your web site and to your repository.
+
+* Dead-line: 2024.11.06 24:00
+
+
 
