@@ -9,7 +9,7 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Adi Moskovits](https://adimosko.github.io/)       |  |  |  |  |
-| [Aishwarya Singh](https://aish16032001.github.io/) | [repo]() |  |  |  |
+| [Aishwarya Singh](https://aish16032001.github.io/) |  |  |  |  |
 | [Guy Haim](https://haimguy.github.io/)             | [repo](https://github.com/HaimGuy/HaimGuy.github.io) |  |  |  |
 | [Karin Vardy](https://karinvar.github.io/)         | [repo](https://github.com/karinvar/karinvar.github.io) |  |  |  |
 | [Sarit Moses](https://sarit-moses.github.io/)      | [repo](https://github.com/sarit-moses/sarit-moses.github.io) |  |  |  |
