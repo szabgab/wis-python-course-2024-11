@@ -9,6 +9,7 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | Home page | Repo | Assignments | Project | Status |
 | --------- | ---- | ----------- | ------- | ------ |
 | [Adi Moskovits](https://adimosko.github.io/)  |  |  |  |  |
+| [Guy Haim](https://haimguy.github.io/)        | [repo](https://github.com/HaimGuy/HaimGuy.github.io) |  |  |  |
 | [Yulia Eriukova](https://yuliaerk.github.io/) | [repo](https://github.com/yuliaerk/yuliaerk.github.io) |  |  |  |
 
 ## Lecturer
