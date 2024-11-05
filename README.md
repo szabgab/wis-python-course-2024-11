@@ -6,14 +6,17 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 
 ## Students
 
-| Home page | Repo | Assignments | Project | Status |
-| --------- | ---- | ----------- | ------- | ------ |
-| [Adi Moskovits](https://adimosko.github.io/)       |  |  |  |  |
-| [Aishwarya Singh](https://aish16032001.github.io/) |  |  |  |  |
-| [Guy Haim](https://haimguy.github.io/)             | [repo](https://github.com/HaimGuy/HaimGuy.github.io) |  |  |  |
-| [Karin Vardy](https://karinvar.github.io/)         | [repo](https://github.com/karinvar/karinvar.github.io) |  |  |  |
-| [Sarit Moses](https://sarit-moses.github.io/)      | [repo](https://github.com/sarit-moses/sarit-moses.github.io) |  |  |  |
-| [Yulia Eriukova](https://yuliaerk.github.io/)      | [repo](https://github.com/yuliaerk/yuliaerk.github.io) |  |  |  |
+| Home page                                                  | Repo                                                                     | Assignments | Project | Status |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------ | ----------- | ------- | ------ |
+| [Adi Moskovits](https://adimosko.github.io/)               | [repo](https://github.com/AdiMosko/AdiMosko.github.io)                   |  |  |  |
+| [Aishwarya Singh](https://aish16032001.github.io/)         |  |  |  |  |
+| [Anastasiia Mamaeva](https://anastasiiamamaeva.github.io/) | [repo](https://github.com/AnastasiiaMamaeva/anastasiiamamaeva.github.io) |  |  |  |
+| [Artem Dubovetskyi](https://artemd7.github.io/)            | [repo](https://github.com/artemD7/artemD7.github.io)                     |  |  |  |
+| [Guy Haim](https://haimguy.github.io/)                     | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                     |  |  |  |
+| [Karin Vardy](https://karinvar.github.io/)                 | [repo](https://github.com/karinvar/karinvar.github.io)                   |  |  |  |
+| [Sarit Moses](https://sarit-moses.github.io/)              | [repo](https://github.com/sarit-moses/sarit-moses.github.io)             |  |  |  |
+| [Sima Glicksman](https://simiglicks.github.io/)            | [repo](https://github.com/simiglicks/simiglicks.github.io)               |  |  |  |
+| [Yulia Eriukova](https://yuliaerk.github.io/)              | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                   |  |  |  |
 
 ## Lecturer
 
