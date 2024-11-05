@@ -9,19 +9,26 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | Home page                                                  | Repo                                                                     | Assignments | Project | Status |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------ | ----------- | ------- | ------ |
 | [Adi Moskovits](https://adimosko.github.io/)               | [repo](https://github.com/AdiMosko/AdiMosko.github.io)                   |  |  |  |
+| [Adi Barnoor](https://adibarnoor.github.io/)               | [repo](https://github.com/AdiBarnoor/AdiBarnoor.github.io)               |  |  |  |
 | [Aishwarya Singh](https://aish16032001.github.io/)         | [repo](https://github.com/Aish16032001/Aish16032001.github.io)           |  |  |  |
 | [Alon Gershkoviz](https://alongersh.github.io/)            | [repo](https://github.com/alongersh/alongersh.github.io)                 |  |  |  |
+| [Ameera Egbaria](https://ameeraegbaria.github.io/)         | [repo](https://github.com/ameeraegbaria/ameeraegbaria.github.io)         |  |  |  |
 | [Anastasiia Mamaeva](https://anastasiiamamaeva.github.io/) | [repo](https://github.com/AnastasiiaMamaeva/anastasiiamamaeva.github.io) |  |  |  |
 | [Artem Dubovetskyi](https://artemd7.github.io/)            | [repo](https://github.com/artemD7/artemD7.github.io)                     |  |  |  |
 | [Guy Haim](https://haimguy.github.io/)                     | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                     |  |  |  |
 | [Karin Vardy](https://karinvar.github.io/)                 | [repo](https://github.com/karinvar/karinvar.github.io)                   |  |  |  |
 | [Lihi Erez](https://lihierez.github.io/)                   | [repo](https://github.com/Lihierez/Lihierez.github.io)                   |  |  |  |
+| [Raz Cuchacovich](https://razcuch.github.io/)              | [repo](https://github.com/razcuch/razcuch.github.io)                     |  |  |  |
 | [Rotem Berda](https://rotemberda.github.io/)               | [repo](https://github.com/rotemberda/rotemberda.github.io)               |  |  |  |
 | [Sarit Moses](https://sarit-moses.github.io/)              | [repo](https://github.com/sarit-moses/sarit-moses.github.io)             |  |  |  |
 | [Shiri Karagach](https://shirikara.github.io/)             | [repo](https://github.com/Shirikara/shirikara.github.io)                 |  |  |  |
 | [Sima Glicksman](https://simiglicks.github.io/)            | [repo](https://github.com/simiglicks/simiglicks.github.io)               |  |  |  |
+| [Stav Ohayon](https://stavoh.github.io/)                   |                    |  |  |  |
 | [Yuliya Androsova](https://yuliyaandrosova.github.io/)     |                    |  |  |  |
 | [Yulia Eriukova](https://yuliaerk.github.io/)              | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                   |  |  |  |
+
+
+| []()              | [repo]()                   |  |  |  |
 
 
 ## Lecturer
