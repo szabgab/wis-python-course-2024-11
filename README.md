@@ -19,6 +19,7 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | [Karin Vardy](https://karinvar.github.io/)                 | [repo](https://github.com/karinvar/karinvar.github.io)                   |  |  |  |
 | [Lihi Erez](https://lihierez.github.io/)                   | [repo](https://github.com/Lihierez/Lihierez.github.io)                   |  |  |  |
 | [Raz Cuchacovich](https://razcuch.github.io/)              | [repo](https://github.com/razcuch/razcuch.github.io)                     |  |  |  |
+| [Romi (Ruchama) Brody](https://romizb.github.io/)          | [repo](https://github.com/romizb/romizb.github.io)                       |  |  |  |
 | [Rotem Berda](https://rotemberda.github.io/)               | [repo](https://github.com/rotemberda/rotemberda.github.io)               |  |  |  |
 | [Sarit Moses](https://sarit-moses.github.io/)              | [repo](https://github.com/sarit-moses/sarit-moses.github.io)             |  |  |  |
 | [Shiri Karagach](https://shirikara.github.io/)             | [repo](https://github.com/Shirikara/shirikara.github.io)                 |  |  |  |
@@ -28,6 +29,7 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | [Yulia Eriukova](https://yuliaerk.github.io/)              | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                   |  |  |  |
 
 
+| []()              | [repo]()                   |  |  |  |
 | []()              | [repo]()                   |  |  |  |
 
 
