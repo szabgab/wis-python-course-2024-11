@@ -19,6 +19,7 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | [Dmitrii Bushmin](https://dimonich00.github.io/)           | [repo](https://github.com/dimonich00/dimonich00.github.io)                   |  |  |  |
 | [Grigorii Rubinovskii](https://grigorii9999.github.io/)    |                    |  |  |  |
 | [Guy Haim](https://haimguy.github.io/)                     | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                     |  |  |  |
+| [Joshua Bugis](https://b-joshua.github.io/)                | [repo](https://github.com/b-joshua/b-joshua.github.io)                   |  |  |  |
 | [Karin Vardy](https://karinvar.github.io/)                 | [repo](https://github.com/karinvar/karinvar.github.io)                   |  |  |  |
 | [Lihi Erez](https://lihierez.github.io/)                   | [repo](https://github.com/Lihierez/Lihierez.github.io)                   |  |  |  |
 | [Lior Lin](https://liorlin.github.io/)                     | [repo](https://github.com/LiorLin/LiorLin.github.io)                   |  |  |  |
@@ -30,6 +31,7 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | [Shiri Karagach](https://shirikara.github.io/)             | [repo](https://github.com/Shirikara/shirikara.github.io)                 |  |  |  |
 | [Sima Glicksman](https://simiglicks.github.io/)            | [repo](https://github.com/simiglicks/simiglicks.github.io)               |  |  |  |
 | [Stav Ohayon](https://stavoh.github.io/)                   | [repo](https://github.com/Stavoh/stavoh.github.io)                       |  |  |  |
+| [Talia Baer](https://taliab11.github.io/)                  | [repo](https://github.com/taliab11/taliab11.github.io)                   |  |  |  |
 | [Yuliya Androsova](https://yuliyaandrosova.github.io/)     |                    |  |  |  |
 | [Yulia Eriukova](https://yuliaerk.github.io/)              | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                   |  |  |  |
 
