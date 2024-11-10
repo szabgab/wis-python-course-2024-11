@@ -24,6 +24,7 @@ Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=1
 | [Iina Takala Raz](https://iinaraz.github.io/)                | [repo](https://github.com/iinaraz/iinaraz.github.io/)                      |  |  |  |
 | [Joshua Bugis](https://b-joshua.github.io/)                  | [repo](https://github.com/b-joshua/b-joshua.github.io)                     |  |  |  |
 | [Karin Vardy](https://karinvar.github.io/)                   | [repo](https://github.com/karinvar/karinvar.github.io)                     |  |  |  |
+| [Libi Saad](https://libs100.github.io/)                      | [repo](https://github.com/Libs100/Libs100.github.io)                       |  |  |  |
 | [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     |  |  |  |
 | [Lior Lin](https://liorlin.github.io/)                       | [repo](https://github.com/LiorLin/LiorLin.github.io)                       |  |  |  |
 | [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 |  |  |  |
