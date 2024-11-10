@@ -2,7 +2,8 @@
 
 Course number: 20253491
 
-Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=186:30:::NO::pid,pprev:15125,14987)
+* Direct link to [course information](https://erez.weizmann.ac.il/pls/htmldb/f?p=186:30:::NO::pid,pprev:15125,14987)
+* Feinberg [Moodle](https://feinberg.weizmann.ac.il/)
 
 ## Students
 
@@ -142,7 +143,9 @@ You are expected to bring your own computer to the lectures.
 
 There is no need to install anything up front. We'll do that during the lectures.
 
-## Day 1 - GitHub, GitHub Pages
+## Day 1
+
+GitHub, GitHub Pages
 
 * Self introduction
 * Overview of the course
@@ -172,5 +175,40 @@ There is no need to install anything up front. We'll do that during the lectures
 
 * Dead-line: 2024.11.06 24:00
 
+## Day 2
 
+* [Video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=73bedf4b-44e0-47b0-802c-b22400ab2bc5)
+
+* Install [VS Code](https://code.visualstudio.com/)
+* Mention other IDEs (PyCharm, Spyder)
+* Write Hello World
+* Install [Python](https://www.python.org/)
+* Run Python program
+* Mention Anaconda
+
+* Install Jupyter labs
+* Create first Notebook
+
+* Install Git client
+
+* Start a repo locally
+* Local setup
+* Add some files.
+
+* We ran out of time and I could not show how to connect the local repo and the one in GitHub. I should have done this and delay the Jupyter labs demo for the next session.
+
+
+### Assignment (day 2)
+
+* Star our repo.
+* Pick two participinats of the course who you don't know (preferably people who who don't yet have 2 issues opened on their repo), look at their web site, star their repo and open a constructive issue on how to improve the site.
+* Handle the issues you receive. (Comment on them and when both of you are satified with the changes then close the issue.
+
+* Write a python program that has two variables `width` and `length` of a rectangle. Print out the area and the circumference of the rectangle. (`rectangle.py`)
+* Write a python program that has one variable `radius` of a circle. Print out the area and the circumference of the circle. (`cricle.py`)
+* Create a Jupyter Notebook that has 3 variables `width` and `length` of a rectangle and the `radius` of a circle. Print out the area and circumference of both.  (`day2.ipynb`)
+
+* Create a new repository for the assignments (e.g. call it python-assignments) create a folder called day02 and upload the 3 files to that folder.
+
+* Dead-line: 2024.11.14 13:00
 
