@@ -209,6 +209,9 @@ GitHub, GitHub Pages
 * Create a Jupyter Notebook that has 3 variables `width` and `length` of a rectangle and the `radius` of a circle. Print out the area and circumference of both.  (`day2.ipynb`)
 
 * Create a new repository for the assignments (e.g. call it python-assignments) create a folder called day02 and upload the 3 files to that folder.
+* Add a README.md file to the root of the repository with some information explaining what is in the repository.
+
+Open an issue on our repository "day 2 by YOUR NAME" and a link to the new repository.
 
 * Dead-line: 2024.11.14 13:00
 
