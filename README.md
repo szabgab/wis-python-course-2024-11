@@ -41,8 +41,9 @@ Course number: 20253491
 | [Yuliya Androsova](https://yuliyaandrosova.github.io/)       | [repo](https://github.com/YuliyaAndrosova/yuliyaandrosova.github.io)       |  |  |  |
 | [Yulia Eriukova](https://yuliaerk.github.io/)                | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                     |  |  |  |
 
+<!--
 | []()                | [repo]()                     |  |  |  |
-
+-->
 
 ## Lecturer
 
