@@ -11,7 +11,7 @@ Course number: 20253491
 | ------------------------------------------------------------ | -------------------------------------------------------------------------- | ----------- | ------- | ------ |
 | [Adi Moskovits](https://adimosko.github.io/)                 | [repo](https://github.com/AdiMosko/AdiMosko.github.io)                     |  |  |  |
 | [Adi Barnoor](https://adibarnoor.github.io/)                 | [repo](https://github.com/AdiBarnoor/AdiBarnoor.github.io)                 |  |  |  |
-| [Aishwarya Singh](https://aish16032001.github.io/)           | [repo](https://github.com/Aish16032001/Aish16032001.github.io)             |  |  |  |
+| [Aishwarya Singh](https://aish16032001.github.io/)           | [repo](https://github.com/Aish16032001/Aish16032001.github.io)             | [repo](https://github.com/Aish16032001/Pythoncourse_assignments/) |  |  |
 | [Alon Gershkoviz](https://alongersh.github.io/)              | [repo](https://github.com/alongersh/alongersh.github.io)                   |  |  |  |
 | [Ameera Egbaria](https://ameeraegbaria.github.io/)           | [repo](https://github.com/ameeraegbaria/ameeraegbaria.github.io)           |  |  |  |
 | [Anastasiia Mamaeva](https://anastasiiamamaeva.github.io/)   | [repo](https://github.com/AnastasiiaMamaeva/anastasiiamamaeva.github.io)   |  |  |  |
