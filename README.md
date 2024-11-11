@@ -21,7 +21,7 @@ Course number: 20253491
 | [Divya Krishna Kumar](https://divz-k.github.io/)             | [repo](https://github.com/divz-k/divz-k.github.io)                         |  |  |  |
 | [Dmitrii Bushmin](https://dimonich00.github.io/)             | [repo](https://github.com/dimonich00/dimonich00.github.io)                 |  |  |  |
 | [Grigorii Rubinovskii](https://grigorii9999.github.io/)      |                    |  |  |  |
-| [Guy Haim](https://haimguy.github.io/)                       | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                       |  |  |  |
+| [Guy Haim](https://haimguy.github.io/)                       | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                       | [repo](https://github.com/HaimGuy/assignments/) |  |  |
 | [Iina Takala Raz](https://iinaraz.github.io/)                | [repo](https://github.com/iinaraz/iinaraz.github.io/)                      |  |  |  |
 | [Joshua Bugis](https://b-joshua.github.io/)                  | [repo](https://github.com/b-joshua/b-joshua.github.io)                     |  |  |  |
 | [Karin Vardy](https://karinvar.github.io/)                   | [repo](https://github.com/karinvar/karinvar.github.io)                     |  |  |  |
