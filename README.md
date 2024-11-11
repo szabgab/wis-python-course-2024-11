@@ -21,17 +21,17 @@ Course number: 20253491
 | [Divya Krishna Kumar](https://divz-k.github.io/)             | [repo](https://github.com/divz-k/divz-k.github.io)                         |  |  |  |
 | [Dmitrii Bushmin](https://dimonich00.github.io/)             | [repo](https://github.com/dimonich00/dimonich00.github.io)                 |  |  |  |
 | [Grigorii Rubinovskii](https://grigorii9999.github.io/)      |                    |  |  |  |
-| [Guy Haim](https://haimguy.github.io/)                       | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                       | [repo](https://github.com/HaimGuy/assignments/) |  |  |
-| [Iina Takala Raz](https://iinaraz.github.io/)                | [repo](https://github.com/iinaraz/iinaraz.github.io/)                      |  |  |  |
+| [Guy Haim](https://haimguy.github.io/)                       | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                       | [repo](https://github.com/HaimGuy/assignments/)                    |  |  |
+| [Iina Takala Raz](https://iinaraz.github.io/)                | [repo](https://github.com/iinaraz/iinaraz.github.io/)                      | [repo](https://github.com/iinaraz/PythonCourse2024/)               |  |  |
 | [Joshua Bugis](https://b-joshua.github.io/)                  | [repo](https://github.com/b-joshua/b-joshua.github.io)                     |  |  |  |
 | [Karin Vardy](https://karinvar.github.io/)                   | [repo](https://github.com/karinvar/karinvar.github.io)                     |  |  |  |
-| [Libi Saad](https://libs100.github.io/)                      | [repo](https://github.com/Libs100/Libs100.github.io)                       |  |  |  |
-| [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     |  |  |  |
+| [Libi Saad](https://libs100.github.io/)                      | [repo](https://github.com/Libs100/Libs100.github.io)                       | [repo](https://github.com/Libs100/python-assignments)              |  |  |
+| [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     | [repo](https://github.com/Lihierez/python-assignments/)            |  |  |
 | [Lior Lin](https://liorlin.github.io/)                       | [repo](https://github.com/LiorLin/LiorLin.github.io)                       |  |  |  |
 | [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 |  |  |  |
 | [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       |  |  |  |
 | [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         |  |  |  |
-| [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 |  |  |  |
+| [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       |  |  |
 | [Santiago Montealegre](https://santiagomonl.github.io/)      | [repo](https://github.com/santiagomonl/santiagomonl.github.io)             |  |  |  |
 | [Sarit Moses](https://sarit-moses.github.io/)                | [repo](https://github.com/sarit-moses/sarit-moses.github.io)               |  |  |  |
 | [Shiri Karagach](https://shirikara.github.io/)               | [repo](https://github.com/Shirikara/shirikara.github.io)                   |  |  |  |
