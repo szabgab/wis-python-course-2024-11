@@ -12,11 +12,11 @@ Course number: 20253491
 | [Adi Moskovits](https://adimosko.github.io/)                 | [repo](https://github.com/AdiMosko/AdiMosko.github.io)                     |  |  |  |
 | [Adi Barnoor](https://adibarnoor.github.io/)                 | [repo](https://github.com/AdiBarnoor/AdiBarnoor.github.io)                 |  |  |  |
 | [Aishwarya Singh](https://aish16032001.github.io/)           | [repo](https://github.com/Aish16032001/Aish16032001.github.io)             | [repo](https://github.com/Aish16032001/Pythoncourse_assignments/)  |  |  |
-| [Alon Gershkoviz](https://alongersh.github.io/)              | [repo](https://github.com/alongersh/alongersh.github.io)                   |  |  |  |
+| [Alon Gershkoviz](https://alongersh.github.io/)              | [repo](https://github.com/alongersh/alongersh.github.io)                   | [repo](https://github.com/AlonGersh/python-assignments)            |  |  |
 | [Ameera Egbaria](https://ameeraegbaria.github.io/)           | [repo](https://github.com/ameeraegbaria/ameeraegbaria.github.io)           | [repo](https://github.com/ameeraegbaria/Ameera-python-assignments) |  |  |
 | [Anastasiia Mamaeva](https://anastasiiamamaeva.github.io/)   | [repo](https://github.com/AnastasiiaMamaeva/anastasiiamamaeva.github.io)   | [repo](https://github.com/AnastasiiaMamaeva/WIS-py-Mamaeva)        |  |  |
 | [Anatoly Kustanovich](https://anatolykustanovich.github.io/) | [repo](https://github.com/AnatolyKustanovich/AnatolyKustanovich.github.io) | [repo](https://github.com/AnatolyKustanovich/python-assignments)   |  |  |
-| [Artem Dubovetskyi](https://artemd7.github.io/)              | [repo](https://github.com/artemD7/artemD7.github.io)                       |  |  |  |
+| [Artem Dubovetskyi](https://artemd7.github.io/)              | [repo](https://github.com/artemD7/artemD7.github.io)                       | [repo](https://github.com/artemD7/assignments_python_course)       |  |  |
 | [Catalina Donic](https://catalinadonic.github.io/)           | [repo](https://github.com/CatalinaDonic/CatalinaDonic.github.io)           |  |  |  |
 | [Divya Krishna Kumar](https://divz-k.github.io/)             | [repo](https://github.com/divz-k/divz-k.github.io)                         |  |  |  |
 | [Dmitrii Bushmin](https://dimonich00.github.io/)             | [repo](https://github.com/dimonich00/dimonich00.github.io)                 | [repo](https://github.com/dimonich00/Python_assignments)           |  |  |
@@ -28,6 +28,7 @@ Course number: 20253491
 | [Libi Saad](https://libs100.github.io/)                      | [repo](https://github.com/Libs100/Libs100.github.io)                       | [repo](https://github.com/Libs100/python-assignments)              |  |  |
 | [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     | [repo](https://github.com/Lihierez/python-assignments/)            |  |  |
 | [Lior Lin](https://liorlin.github.io/)                       | [repo](https://github.com/LiorLin/LiorLin.github.io)                       | [repo](https://github.com/LiorLin/Course_Assignments)              |  |  |
+| [Maxim Kuryachiy](https://maximkuryachiy.github.io/)         | [repo](https://github.com/MaximKuryachiy/maximkuryachiy.github.io)         |  [repo](https://github.com/MaximKuryachiy/Python-assignments)      |  |  |
 | [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 |  |  |  |
 | [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       |  |  |  |
 | [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         |  |  |  |
@@ -40,6 +41,7 @@ Course number: 20253491
 | [Talia Baer](https://taliab11.github.io/)                    | [repo](https://github.com/taliab11/taliab11.github.io)                     | [repo](https://github.com/taliab11/python_course_assignments/)     |  |  |
 | [Yuliya Androsova](https://yuliyaandrosova.github.io/)       | [repo](https://github.com/YuliyaAndrosova/yuliyaandrosova.github.io)       |  |  |  |
 | [Yulia Eriukova](https://yuliaerk.github.io/)                | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                     |  |  |  |
+
 
 <!--
 | []()                | [repo]()                     |  |  |  |
