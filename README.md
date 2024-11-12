@@ -33,11 +33,11 @@ Course number: 20253491
 | [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         |  |  |  |
 | [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       |  |  |
 | [Santiago Montealegre](https://santiagomonl.github.io/)      | [repo](https://github.com/santiagomonl/santiagomonl.github.io)             |  |  |  |
-| [Sarit Moses](https://sarit-moses.github.io/)                | [repo](https://github.com/sarit-moses/sarit-moses.github.io)               |  |  |  |
+| [Sarit Moses](https://sarit-moses.github.io/)                | [repo](https://github.com/sarit-moses/sarit-moses.github.io)               | [repo](https://github.com/sarit-moses/python-assignments/)         |  |  |
 | [Shiri Karagach](https://shirikara.github.io/)               | [repo](https://github.com/Shirikara/shirikara.github.io)                   |  |  |  |
 | [Sima Glicksman](https://simiglicks.github.io/)              | [repo](https://github.com/simiglicks/simiglicks.github.io)                 |  |  |  |
 | [Stav Ohayon](https://stavoh.github.io/)                     | [repo](https://github.com/Stavoh/stavoh.github.io)                         |  |  |  |
-| [Talia Baer](https://taliab11.github.io/)                    | [repo](https://github.com/taliab11/taliab11.github.io)                     |  |  |  |
+| [Talia Baer](https://taliab11.github.io/)                    | [repo](https://github.com/taliab11/taliab11.github.io)                     | [repo](https://github.com/taliab11/python_course_assignments/)     |  |  |
 | [Yuliya Androsova](https://yuliyaandrosova.github.io/)       | [repo](https://github.com/YuliyaAndrosova/yuliyaandrosova.github.io)       |  |  |  |
 | [Yulia Eriukova](https://yuliaerk.github.io/)                | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                     |  |  |  |
 
