@@ -1,5 +1,8 @@
 ## Day 3
 
+* Mention that in the course we only learn 0.01% of "programming in Python", the rest they will have to learn alone.
+* Mention the tension that about 30% of the students have no programming background and the other have.
+
 * Clone web site
 * Make some changes to the web site
 * Commit and push
