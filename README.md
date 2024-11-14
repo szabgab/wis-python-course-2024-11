@@ -17,10 +17,10 @@ Course number: 20253491
 | [Anastasiia Mamaeva](https://anastasiiamamaeva.github.io/)   | [repo](https://github.com/AnastasiiaMamaeva/anastasiiamamaeva.github.io)   | [repo](https://github.com/AnastasiiaMamaeva/WIS-py-Mamaeva)        |  |  |
 | [Anatoly Kustanovich](https://anatolykustanovich.github.io/) | [repo](https://github.com/AnatolyKustanovich/AnatolyKustanovich.github.io) | [repo](https://github.com/AnatolyKustanovich/python-assignments)   |  |  |
 | [Artem Dubovetskyi](https://artemd7.github.io/)              | [repo](https://github.com/artemD7/artemD7.github.io)                       | [repo](https://github.com/artemD7/assignments_python_course)       |  |  |
-| [Catalina Donic](https://catalinadonic.github.io/)           | [repo](https://github.com/CatalinaDonic/CatalinaDonic.github.io)           |  |  |  |
+| [Catalina Donic](https://catalinadonic.github.io/)           | [repo](https://github.com/CatalinaDonic/CatalinaDonic.github.io)           | [repo](https://github.com/CatalinaDonic/python-assignments/)       |  |  |
 | [Divya Krishna Kumar](https://divz-k.github.io/)             | [repo](https://github.com/divz-k/divz-k.github.io)                         | [repo](https://github.com/divz-k/PythonCourseByGabor/)             |  |  |
 | [Dmitrii Bushmin](https://dimonich00.github.io/)             | [repo](https://github.com/dimonich00/dimonich00.github.io)                 | [repo](https://github.com/dimonich00/Python_assignments)           |  |  |
-| [Grigorii Rubinovskii](https://grigoriirub.github.io/)       | [repo](https://github.com/grigoriirub/grigoriirub.github.io)               |  |  |  |
+| [Grigorii Rubinovskii](https://grigoriirub.github.io/)       | [repo](https://github.com/grigoriirub/grigoriirub.github.io)               | [repo](https://github.com/grigoriirub/Assignments)                 |  |  |
 | [Guy Haim](https://haimguy.github.io/)                       | [repo](https://github.com/HaimGuy/HaimGuy.github.io)                       | [repo](https://github.com/HaimGuy/assignments/)                    |  |  |
 | [Iina Takala Raz](https://iinaraz.github.io/)                | [repo](https://github.com/iinaraz/iinaraz.github.io/)                      | [repo](https://github.com/iinaraz/PythonCourse2024/)               |  |  |
 | [Joshua Bugis](https://b-joshua.github.io/)                  | [repo](https://github.com/b-joshua/b-joshua.github.io)                     | [repo](https://github.com/b-joshua/python-assignments)             |  |  |
@@ -28,10 +28,10 @@ Course number: 20253491
 | [Libi Saad](https://libs100.github.io/)                      | [repo](https://github.com/Libs100/Libs100.github.io)                       | [repo](https://github.com/Libs100/python-assignments)              |  |  |
 | [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     | [repo](https://github.com/Lihierez/python-assignments/)            |  |  |
 | [Lior Lin](https://liorlin.github.io/)                       | [repo](https://github.com/LiorLin/LiorLin.github.io)                       | [repo](https://github.com/LiorLin/Course_Assignments)              |  |  |
-| [Maxim Kuryachiy](https://maximkuryachiy.github.io/)         | [repo](https://github.com/MaximKuryachiy/maximkuryachiy.github.io)         |  [repo](https://github.com/MaximKuryachiy/Python-assignments)      |  |  |
+| [Maxim Kuryachiy](https://maximkuryachiy.github.io/)         | [repo](https://github.com/MaximKuryachiy/maximkuryachiy.github.io)         | [repo](https://github.com/MaximKuryachiy/Python-assignments)       |  |  |
 | [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 |  |  |  |
 | [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       |  |  |  |
-| [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         |  |  |  |
+| [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         | [repo](https://github.com/romizb/python-assignments)               |  |  |
 | [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       |  |  |
 | [Santiago Montealegre](https://santiagomonl.github.io/)      | [repo](https://github.com/santiagomonl/santiagomonl.github.io)             | [repo](https://github.com/santiagomonl/python-assignments)         |  |  |
 | [Sarit Moses](https://sarit-moses.github.io/)                | [repo](https://github.com/sarit-moses/sarit-moses.github.io)               | [repo](https://github.com/sarit-moses/python-assignments/)         |  |  |
