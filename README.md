@@ -31,7 +31,7 @@ Course number: 20253491
 | [Maxim Kuryachiy](https://maximkuryachiy.github.io/)         | [repo](https://github.com/MaximKuryachiy/maximkuryachiy.github.io)         | [repo](https://github.com/MaximKuryachiy/Python-assignments)       |  |  |
 | [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 |  |  |  |
 | [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       |  |  |  |
-| [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         | [repo](https://github.com/romizb/python-assignments)               |  |  |
+| [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         | [repo](https://github.com/romizb/python_assignments)               |  |  |
 | [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       |  |  |
 | [Santiago Montealegre](https://santiagomonl.github.io/)      | [repo](https://github.com/santiagomonl/santiagomonl.github.io)             | [repo](https://github.com/santiagomonl/python-assignments)         |  |  |
 | [Sarit Moses](https://sarit-moses.github.io/)                | [repo](https://github.com/sarit-moses/sarit-moses.github.io)               | [repo](https://github.com/sarit-moses/python-assignments/)         |  |  |
