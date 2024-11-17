@@ -218,3 +218,27 @@ Open an issue on our repository "day 2 by YOUR NAME" and a link to the new repos
 
 * Dead-line: 2024.11.14 13:00
 
+
+## Day 3
+
+* Mention that in the course we only learn 0.01% of "programming in Python", the rest they will have to learn alone.
+* Mention the tension that about 30% of the students have no programming background and the other have.
+* Resize image:  https://github.com/szabgab/wis-python-course-2024-11/issues/43
+
+* Clone web site
+* Make some changes to the web site
+* Commit and push
+
+* Create a new repository for the assignments. Clone it. Add some files and push it out.
+
+### Assignment (day 3)
+
+* Clone the repository of your assignments
+* Add a new folder called day03
+* Copy the `rectangle.py` from day02 and change it to use `input` to get the values from the user.
+* Copy the `circle.py` from day02 and change it to use the command line to get values from the user. (argparse)
+* Copy the Jupyter notebook from day02 and change it to get the parameters using `input`.
+
+* Dead-line: 2024.11.24 22:00
+
+
