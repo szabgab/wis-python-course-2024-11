@@ -221,6 +221,8 @@ Open an issue on our repository "day 2 by YOUR NAME" and a link to the new repos
 
 ## Day 3
 
+* [video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b654eedd-499d-4442-a4a2-b22b00ac6584)
+
 * Mention that in the course we only learn 0.01% of "programming in Python", the rest they will have to learn alone.
 * Mention the tension that about 30% of the students have no programming background and the other have.
 * Resize image:  https://github.com/szabgab/wis-python-course-2024-11/issues/43
