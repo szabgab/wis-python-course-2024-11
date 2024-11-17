@@ -2,6 +2,8 @@
 
 * Mention that in the course we only learn 0.01% of "programming in Python", the rest they will have to learn alone.
 * Mention the tension that about 30% of the students have no programming background and the other have.
+* Show how to search for help installing Python on macOS.
+* Resize image:  https://github.com/szabgab/wis-python-course-2024-11/issues/43
 
 * Clone web site
 * Make some changes to the web site
