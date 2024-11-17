@@ -37,7 +37,7 @@ Course number: 20253491
 | [Sarit Moses](https://sarit-moses.github.io/)                | [repo](https://github.com/sarit-moses/sarit-moses.github.io)               | [repo](https://github.com/sarit-moses/python-assignments/)         |  |  |
 | [Shiri Karagach](https://shirikara.github.io/)               | [repo](https://github.com/Shirikara/shirikara.github.io)                   | [repo](https://github.com/Shirikara/python-assignments)            |  |  |
 | [Sima Glicksman](https://simiglicks.github.io/)              | [repo](https://github.com/simiglicks/simiglicks.github.io)                 | [repo](https://github.com/simiglicks/python-assignments/)          |  |  |
-| [Stav Ohayon](https://stavoh.github.io/)                     | [repo](https://github.com/Stavoh/stavoh.github.io)                         |  |  |  |
+| [Stav Ohayon](https://stavoh.github.io/)                     | [repo](https://github.com/Stavoh/stavoh.github.io)                         | [repo](https://github.com/Stavoh/Python-Assignments)               |  |  |
 | [Talia Baer](https://taliab11.github.io/)                    | [repo](https://github.com/taliab11/taliab11.github.io)                     | [repo](https://github.com/taliab11/python_course_assignments/)     |  |  |
 | [Yuliya Androsova](https://yuliyaandrosova.github.io/)       | [repo](https://github.com/YuliyaAndrosova/yuliyaandrosova.github.io)       |  |  |  |
 | [Yulia Eriukova](https://yuliaerk.github.io/)                | [repo](https://github.com/yuliaerk/yuliaerk.github.io)                     | [repo](https://github.com/yuliaerk/python-assignments)             |  |  |
