@@ -29,7 +29,7 @@ Course number: 20253491
 | [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     | [repo](https://github.com/Lihierez/python-assignments/)            |  |  |
 | [Lior Lin](https://liorlin.github.io/)                       | [repo](https://github.com/LiorLin/LiorLin.github.io)                       | [repo](https://github.com/LiorLin/Course_Assignments)              |  |  |
 | [Maxim Kuryachiy](https://maximkuryachiy.github.io/)         | [repo](https://github.com/MaximKuryachiy/maximkuryachiy.github.io)         | [repo](https://github.com/MaximKuryachiy/Python-assignments)       |  |  |
-| [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 |  |  |  |
+| [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 | [repo](https://github.com/maytalkatz/python-assignments)           |  |  |
 | [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       |  |  |  |
 | [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         | [repo](https://github.com/romizb/python_assignments)               |  |  |
 | [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       |  |  |
