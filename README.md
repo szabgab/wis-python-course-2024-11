@@ -241,6 +241,8 @@ Open an issue on our repository "day 2 by YOUR NAME" and a link to the new repos
 * Copy the `circle.py` from day02 and change it to use the command line to get values from the user. (argparse)
 * Copy the Jupyter notebook from day02 and change it to get the parameters using `input`.
 
-* Dead-line: 2024.11.24 22:00
+* Copy the `day03/dilution_calculation.ipynb` from this repository (you can clone this repository as well to your computer) and solve it.
+
+* Dead-line: 2024.11.26 22:00
 
 
