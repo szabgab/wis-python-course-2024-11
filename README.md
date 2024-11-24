@@ -245,4 +245,67 @@ Open an issue on our repository "day 2 by YOUR NAME" and a link to the new repos
 
 * Dead-line: 2024.11.26 22:00
 
+## Day 4
+
+* [video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c5f04233-f25e-445f-968b-b23200b7e2fd)
+
+Using Jupyter notebook
+
+* `input()`
+
+* scalar values (e.g. a number)
+
+* `def` define functions
+* return single value
+* return multiple values and accept them as a tuple
+
+* move the function to a separate file and `import` it from there.
+
+* lists
+* `for` loop to double numbers
+* `map` to double numbers
+* `list`
+
+* `range`
+* `random`
+* `if`
+* `break`
+* `continue`
+
+
+* divide 100 by numbers in a list
+* two lists (vectors) - add them pair-wise using a for loop and using zip
+
+* Show how to search for help - [Stackoverflow](https://stackoverflow.com/)
+
+
+### Assignment (day 4)
+
+* Create a folder called `day04`.
+
+We did not go over the while loops but for this assignment you will need it. It is used when we don't have anything to iterate overknow or we don't know up front how many iteration we will have.
+You can use `break` and `continue` in the `while` loops as well:
+You car write it like this:
+
+```
+while True:
+    if some_condition:
+        break
+    ...
+```
+
+* Write a Python program that is a number guessing game:
+    * The computer "thinks" a about a whole number between 1 and 20
+    * The user guesses
+    * The computer tells if the guess was too small, too big or exact.
+    * If exact the user wins, the program ends. Otherwise the user can guess again.
+    * At the end of the game print out how many guesses the user needed.
+
+    * Allow the user to play several games: once one game ends ask her if she wants to play again, generate a new random number and play again.
+    * If the user enters "x" any time, exit the program.
+    * If the user enters "n" any time, leave the current game and ask if she wants to play a new game?
+    * If the user enters "s" any time, show the hidden number (cheating).
+    * Move the code in a function called `main` and split up the code into several function that make sense.
+
+* Dead-line: 2024.12.02 22:00
 
