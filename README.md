@@ -307,5 +307,9 @@ while True:
     * If the user enters "s" any time, show the hidden number (cheating).
     * Move the code in a function called `main` and split up the code into several function that make sense.
 
+
+There is a file called `day04/assignment-t-test.ipynb` copy it and follow the instructions in the file.
+
+
 * Dead-line: 2024.12.02 22:00
 
