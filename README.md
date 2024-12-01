@@ -327,7 +327,39 @@ There is a file called `day04/assignment-t-test.ipynb` copy it and follow the in
 
 ### Assignment (day 5)
 
-TBD
+* Write a program that given one or more files with a sequence in it will display some basic statistics about the sequences.
+* Write a few tests that will verify the results.
+
+e.g. `python seq.py day05/a_seq.txt day05/b_seq.txt`
+
+
+```
+day05/a_seq.txt
+A:        2  7.4%
+C:        5 18.5%
+G:        6 22.2%
+T:        7 25.9%
+Unknown:  7 25.9%
+Total:   27
+
+day05/b_seq.txt
+A:        1  10.0%
+C:        2  20.0%
+G:        3  30.0%
+T:        4  40.0%
+Unknown:  0   0%
+Total:   10
+
+
+All
+A:        3   8.1%
+C:        7  18.9%
+G:        9  24.3%
+T:       11  29.7%
+Unknown:  7  18.9%
+Total:   37
+```
+
 
 * Dead-line: 2024.12.09 22:00
 
