@@ -314,3 +314,20 @@ There is a file called `day04/assignment-t-test.ipynb` copy it and follow the in
 
 * Dead-line: 2024.12.02 22:00
 
+## Day 5
+
+* [video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=91f96b7f-af10-4744-a7a0-b23900b01b3f)
+
+* `while` loop vs `for` loop
+
+* count digits in a string
+* count digits in a file
+
+* testing you first need to `pip install pytest` to be able to run the tests
+
+### Assignment (day 5)
+
+TBD
+
+* Dead-line: 2024.12.09 22:00
+
