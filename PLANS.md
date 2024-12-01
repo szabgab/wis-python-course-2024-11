@@ -2,15 +2,21 @@
 ## Day 5
 
 
-open file, read numbers from file and then divide number
+while loop vs for loop
+
 count digits in a string
-file selector
+count digits in a file
+
+count words in a list
+count words in a file
 
 testing
 testing functions, testing modules
 
+`__pycache__`  `.gitigrnore`
 
 
+Jupyter notebook file selector
 
 
 
