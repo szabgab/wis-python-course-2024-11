@@ -1,0 +1,11 @@
+PatientID,Age,Sex,Condition,WBC_Count
+1,25,M,Healthy,5600
+2,40,F,Infection,11000
+3,35,F,Healthy,6700
+4,50,M,Cancer,8700
+5,60,M,Infection,13400
+6,30,F,Healthy,5900
+7,70,M,Cancer,9100
+8,45,F,Infection,12500
+9,20,F,Healthy,5400
+10,55,M,Cancer,8800

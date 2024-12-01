@@ -327,6 +327,8 @@ There is a file called `day04/assignment-t-test.ipynb` copy it and follow the in
 
 ### Assignment (day 5)
 
+1. Sequences and stats
+
 * Write a program that given one or more files with a sequence in it will display some basic statistics about the sequences.
 * Write a few tests that will verify the results.
 
@@ -359,6 +361,11 @@ T:       11  29.7%
 Unknown:  7  18.9%
 Total:   37
 ```
+
+2. Patients
+
+There is a file called `day05/Datasets.ipynb` copy it and follow the instructions in the file.
+There is also a data file called `day05/patient_data.csv`.
 
 
 * Dead-line: 2024.12.09 22:00
