@@ -45,6 +45,7 @@ Course number: 20253491
 
 
 <!--
+| [Tal Sharon](https://sharontal.github.io/)                   | [repo](https://github.com/SharonTal/SharonTal.github.io)                   | [repo](https://github.com/SharonTal/wis-python_course_assignments) |  |  |
 | []()                | [repo]()                     |  |  |  |
 -->
 
