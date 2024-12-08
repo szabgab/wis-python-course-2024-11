@@ -371,3 +371,37 @@ There is also a data file called `day05/patient_data.csv`.
 
 * Dead-line: 2024.12.09 22:00
 
+
+## Day 6
+
+* [video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=63937cc0-6c8b-41e5-9333-b24000b024a7)
+
+count words in a list
+count words in a file
+
+
+`__pycache__`  `.gitigrnore`
+
+Opening files:
+* plain text file
+
+```python
+with open(filename, "r") as fh:
+    fh.read()
+    fh.readline()
+```
+
+
+* Image using PIL and cv2
+
+* CSV file using csv and pandas
+* Excel file using openpyxl and pandas  https://slides.code-maven.com/python/excel.html
+* JSON
+* [NCBI](https://www.ncbi.nlm.nih.gov/nucleotide)
+* [Search nucleotids](https://slides.code-maven.com/python/bio-python-search-nucleotids)
+* [Download nucleotids](https://slides.code-maven.com/python/bio-python-download-nucleotids)
+* [csv](https://slides.code-maven.com/python/reading-csv.html)
+* [csv to dictionary](https://slides.code-maven.com/python/csv-to-dictionary.html)
+
+* [co-pilot with Jupyter notebook](https://learn.microsoft.com/en-us/shows/github-copilot-series/using-copilot-with-jupyter-notebooks)
+

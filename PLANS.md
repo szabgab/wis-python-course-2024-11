@@ -1,11 +1,8 @@
 
-## Day 6
+## Day 7
 
-count words in a list
-count words in a file
-
-
-`__pycache__`  `.gitigrnore`
+* YAML
+* Fasta
 
 
 Jupyter notebook file selector

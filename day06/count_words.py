@@ -36,4 +36,14 @@ for field in ["name", "address", "age"]:
     print(res.get(field, 0))
 
 
-# python day06/count_words.py FILENAME
+# python day06/count_words.py FILE
+
+
+for pair in res.items():
+    print(pair)
+    print(pair[0], pair[1])
+
+for field, value in res.items():
+    print(field, value)
+
+
