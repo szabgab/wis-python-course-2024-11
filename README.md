@@ -436,6 +436,8 @@ date,term,max,total
 2024-05-30 18:12:34,nucleotide,cauliflower,10,32781
 ```
 
+Copy the file `day06/Assignment06.ipynb` and follow the instructions there.
+
 
 * Dead-line: 2024.12.16 22:00
 
