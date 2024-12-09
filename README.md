@@ -405,3 +405,38 @@ with open(filename, "r") as fh:
 
 * [co-pilot with Jupyter notebook](https://learn.microsoft.com/en-us/shows/github-copilot-series/using-copilot-with-jupyter-notebooks)
 
+### Assignment (day 6)
+
+Create a folder called `day06`.
+
+Write a command line tool that can download data from NCBI. You can download from the nucleotide database
+as we did in the lecture, but it would be much more interesting if you used some of the other databases
+available on NCBI. e.g.:
+
+```
+python ncbi.py  --database nucleotide --term TERM --number NUMBER
+```
+
+The database can default to "nucleotide", ther number can default to 10.
+
+
+Search for the TERM and download up to NUMBER items. Save each item in its own file. Print the names of the files.
+Also save the date, the database, the search term, the number asked for and the total number of items found in a csv file. So if you run the command twice:
+
+```
+python ncbi.py  --database genome --term Orchid --number 3
+python ncbi.py  -cauliflower
+```
+
+you'd get something like this:
+
+```
+date,term,max,total
+2024-05-30 17:20:21,genome,Orchid,3,527341
+2024-05-30 18:12:34,nucleotide,cauliflower,10,32781
+```
+
+
+* Dead-line: 2024.12.16 22:00
+
+
