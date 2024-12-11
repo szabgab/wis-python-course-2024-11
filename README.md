@@ -31,7 +31,7 @@ Course number: 20253491
 | [Maxim Kuryachiy](https://maximkuryachiy.github.io/)         | [repo](https://github.com/MaximKuryachiy/maximkuryachiy.github.io)         | [repo](https://github.com/MaximKuryachiy/Python-assignments)       |  |  |
 | [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 | [repo](https://github.com/maytalkatz/python-assignments)           |  |  |
 | [Osher Ben-Nun](https://o-bn.github.io/)                     | [repo](https://github.com/O-BN/O-BN.github.io)                             | [repo](https://github.com/O-BN/python-assignments/)                |  |  |
-| [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       |  |  |  |
+| [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       | [repo](https://github.com/razcuch/Assignments)                     |  |  |
 | [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         | [repo](https://github.com/romizb/python_assignments)               |  |  |
 | [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       |  |  |
 | [Santiago Montealegre](https://santiagomonl.github.io/)      | [repo](https://github.com/santiagomonl/santiagomonl.github.io)             | [repo](https://github.com/santiagomonl/python-assignments)         |  |  |
