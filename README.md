@@ -441,4 +441,28 @@ Copy the file `day06/Assignment06.ipynb` and follow the instructions there.
 
 * Dead-line: 2024.12.16 22:00
 
+## Day 7
+
+* [video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e11e46f7-7a65-4b66-85bc-b24700acd058)
+
+* [JSON](https://slides.code-maven.com/python/json)
+* [Open Weathermap](https://openweathermap.org/) API
+* YAML
+* [TOML](https://toml.io/en/)
+* [Python for Science](https://slides.code-maven.com/python/scipy)
+* Fasta file format
+* GeneBank file format
+
+* Fixing the typo on the Biopython web site [search term](https://github.com/biopython/biopython.github.io/pulls?q=is%3Apr+author%3Aszabgab)
+
+* The requirements.txt file [docs](https://pip.pypa.io/en/stable/reference/requirements-file-format/)
+
+* [Color wheel](https://www.canva.com/colors/color-wheel/) - one of many such things on the Internet.
+* [Hexadecimal numbers](https://en.wikipedia.org/wiki/Hexadecimal)
+
+
+* [Tk](https://slides.code-maven.com/python/tk)
+
+Jupyter notebook file selector
+
 

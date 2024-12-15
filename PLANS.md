@@ -1,12 +1,6 @@
 
-## Day 7
+## Day 8
 
-* YAML
-* Fasta
-
-
-Jupyter notebook file selector
-
-
+* [Regular Expressions](https://slides.code-maven.com/python/regex)
 
 
