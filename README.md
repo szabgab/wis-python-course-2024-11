@@ -11,12 +11,12 @@ Course number: 20253491
 | ------------------------------------------------------------ | -------------------------------------------------------------------------- | ----------- | ------- | ------ |
 | [Adi Moskovits](https://adimosko.github.io/)                 | [repo](https://github.com/AdiMosko/AdiMosko.github.io)                     |  |  |  |
 | [Adi Barnoor](https://adibarnoor.github.io/)                 | [repo](https://github.com/AdiBarnoor/AdiBarnoor.github.io)                 | [repo](https://github.com/AdiBarnoor/python-assignments)           |  |  |
-| [Aishwarya Singh](https://aish16032001.github.io/)           | [repo](https://github.com/Aish16032001/Aish16032001.github.io)             | [repo](https://github.com/Aish16032001/Pythoncourse_assignments/)  |  |  |
+| [Aishwarya Singh](https://aish16032001.github.io/)           | [repo](https://github.com/Aish16032001/Aish16032001.github.io)             | [repo](https://github.com/Aish16032001/Pythoncourse_assignments/)  | [Molecular-Dynamics-Structure-Analysis](https://github.com/Aish16032001/Molecular-Dynamics-Structure-Analysis) |  |
 | [Alon Gershkoviz](https://alongersh.github.io/)              | [repo](https://github.com/alongersh/alongersh.github.io)                   | [repo](https://github.com/AlonGersh/python-assignments)            |  |  |
 | [Ameera Egbaria](https://ameeraegbaria.github.io/)           | [repo](https://github.com/ameeraegbaria/ameeraegbaria.github.io)           | [repo](https://github.com/ameeraegbaria/Ameera-python-assignments) |  |  |
 | [Anastasiia Mamaeva](https://anastasiiamamaeva.github.io/)   | [repo](https://github.com/AnastasiiaMamaeva/anastasiiamamaeva.github.io)   | [repo](https://github.com/AnastasiiaMamaeva/WIS-py-Mamaeva)        |  |  |
-| [Anatoly Kustanovich](https://anatolykustanovich.github.io/) | [repo](https://github.com/AnatolyKustanovich/AnatolyKustanovich.github.io) | [repo](https://github.com/AnatolyKustanovich/python-assignments)   |  |  |
-| [Artem Dubovetskyi](https://artemd7.github.io/)              | [repo](https://github.com/artemD7/artemD7.github.io)                       | [repo](https://github.com/artemD7/assignments_python_course)       |  |  |
+| [Anatoly Kustanovich](https://anatolykustanovich.github.io/) | [repo](https://github.com/AnatolyKustanovich/AnatolyKustanovich.github.io) | [repo](https://github.com/AnatolyKustanovich/python-assignments)   | [bam2csv converter](https://github.com/AnatolyKustanovich/bam2csv/) |  |
+| [Artem Dubovetskyi](https://artemd7.github.io/)              | [repo](https://github.com/artemD7/artemD7.github.io)                       | [repo](https://github.com/artemD7/assignments_python_course)       | [Pub Ranker](https://github.com/artemD7/PubRanker) |  |
 | [Catalina Donic](https://catalinadonic.github.io/)           | [repo](https://github.com/CatalinaDonic/CatalinaDonic.github.io)           | [repo](https://github.com/CatalinaDonic/python-assignments/)       |  |  |
 | [Divya Krishna Kumar](https://divz-k.github.io/)             | [repo](https://github.com/divz-k/divz-k.github.io)                         | [repo](https://github.com/divz-k/PythonCourseByGabor/)             |  |  |
 | [Dmitrii Bushmin](https://dimonich00.github.io/)             | [repo](https://github.com/dimonich00/dimonich00.github.io)                 | [repo](https://github.com/dimonich00/Python_assignments)           |  |  |
@@ -26,14 +26,14 @@ Course number: 20253491
 | [Joshua Bugis](https://b-joshua.github.io/)                  | [repo](https://github.com/b-joshua/b-joshua.github.io)                     | [repo](https://github.com/b-joshua/python-assignments)             |  |  |
 | [Karin Vardy](https://karinvar.github.io/)                   | [repo](https://github.com/karinvar/karinvar.github.io)                     | [repo](https://github.com/karinvar/Python-assignments)             |  |  |
 | [Libi Saad](https://libs100.github.io/)                      | [repo](https://github.com/Libs100/Libs100.github.io)                       | [repo](https://github.com/Libs100/python-assignments)              |  |  |
-| [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     | [repo](https://github.com/Lihierez/python-assignments/)            |  |  |
+| [Lihi Erez](https://lihierez.github.io/)                     | [repo](https://github.com/Lihierez/Lihierez.github.io)                     | [repo](https://github.com/Lihierez/python-assignments/)            | [qPCR Results Analysis](https://github.com/Lihierez/qPCR-Results-Analysis) |  |
 | [Lior Lin](https://liorlin.github.io/)                       | [repo](https://github.com/LiorLin/LiorLin.github.io)                       | [repo](https://github.com/LiorLin/Course_Assignments)              |  |  |
 | [Maxim Kuryachiy](https://maximkuryachiy.github.io/)         | [repo](https://github.com/MaximKuryachiy/maximkuryachiy.github.io)         | [repo](https://github.com/MaximKuryachiy/Python-assignments)       |  |  |
 | [Maytal Katz](https://maytalkatz.github.io/)                 | [repo](https://github.com/maytalkatz/maytalkatz.github.io)                 | [repo](https://github.com/maytalkatz/python-assignments)           |  |  |
 | [Osher Ben-Nun](https://o-bn.github.io/)                     | [repo](https://github.com/O-BN/O-BN.github.io)                             | [repo](https://github.com/O-BN/python-assignments/)                |  |  |
 | [Raz Cuchacovich](https://razcuch.github.io/)                | [repo](https://github.com/razcuch/razcuch.github.io)                       | [repo](https://github.com/razcuch/Assignments)                     |  |  |
-| [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         | [repo](https://github.com/romizb/python_assignments)               |  |  |
-| [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       |  |  |
+| [Romi (Ruchama) Brody](https://romizb.github.io/)            | [repo](https://github.com/romizb/romizb.github.io)                         | [repo](https://github.com/romizb/python_assignments)               | [Big Floof Energy (BFE)](https://github.com/romizb/Big-Floof-Energy/blob/main/README.md) |  |
+| [Rotem Berda](https://rotemberda.github.io/)                 | [repo](https://github.com/rotemberda/rotemberda.github.io)                 | [repo](https://github.com/rotemberda/wis_python_assignmants)       | [Transcription Factor Mutation Tool](https://github.com/rotemberda/Transcription-Factor-Mutation-generator) |  |
 | [Santiago Montealegre](https://santiagomonl.github.io/)      | [repo](https://github.com/santiagomonl/santiagomonl.github.io)             | [repo](https://github.com/santiagomonl/python-assignments)         |  |  |
 | [Sarit Moses](https://sarit-moses.github.io/)                | [repo](https://github.com/sarit-moses/sarit-moses.github.io)               | [repo](https://github.com/sarit-moses/python-assignments/)         |  |  |
 | [Shiri Karagach](https://shirikara.github.io/)               | [repo](https://github.com/Shirikara/shirikara.github.io)                   | [repo](https://github.com/Shirikara/python-assignments)            |  |  |
@@ -91,9 +91,10 @@ and the [projects of the 2023 autumn semester](https://github.com/szabgab/wis-py
 or those of [2024 spring semester](https://github.com/szabgab/wis-python-course-2024-04).
 
 The idea of the project is that you write something that is going to be useful for you beyond the course. e.g. There is some manual work in your lab and this project will automate it.
-It can be also a tool to help you with your research. etc.
+It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embasy
+and also games.
 
-How to submit your proposal:
+**How to submit your proposal?**
 
 * Create a separate repository for the project. Its name should reflect the project: (e.g. Gene-Amplification-and-SNP-Analysis) and not the the course.
 If someone looks at this repository they should see it as a real application and not "some stuff you wrote just to get the grade".
@@ -107,11 +108,14 @@ It should be a description that will help any future visitor of the project to u
 
 It would be nice if at the end of the README you mention that this was written as part of the course and link to the course repository.
 
+We understand that the project and thus the description might evolve during the implementation. That's fine. You can update the README with the new information. In the proposal we would like to see your understanding of the project before you start implementing it.
+
 Before you submit it for approval it is recommended that you send it to another student and ask if the description is clear. If that student has any questions then you probably will need to update the README to answer those questions so the next person won't need to ask.
 
 Once you are ready, open an issue on our repository linking to you project to get it approved.
 
 Once the project is approved you will implement it in the same repository. Open a new issue when you'd like the project to be graded.
+
 
 
 ### Expected workload
