@@ -466,3 +466,12 @@ Copy the file `day06/Assignment06.ipynb` and follow the instructions there.
 Jupyter notebook file selector
 
 
+## Day 8
+
+* https://slides.code-maven.com/python/distribute.html
+* https://www.djangoproject.com/
+* https://slides.code-maven.com/python/flask.html
+* https://en.wikipedia.org/wiki/Iris_flower_data_set
+* https://slides.code-maven.com/python/random-seed.html
+
+
