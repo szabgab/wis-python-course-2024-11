@@ -94,6 +94,8 @@ The idea of the project is that you write something that is going to be useful f
 It can be also a tool to help you with your research. etc. It can also be useful in your private life. e.g. we had projects trying to register for visa applications at the USA embasy
 and also games.
 
+You can even take an existing project and make some valuable improvements to that project. (e.g. one project from one of the previous courses).
+
 **How to submit your proposal?**
 
 * Create a separate repository for the project. Its name should reflect the project: (e.g. Gene-Amplification-and-SNP-Analysis) and not the the course.
