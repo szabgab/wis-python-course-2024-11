@@ -533,4 +533,22 @@ For example you can take the number guessing game and convert it to work in eith
 
 ### Assignment (day 9)
 
-TBD
+We saw one example analyzing sequences: find the longest sub-sequence that repeates itself.
+In the day09 folder create a program that will receive the path to a file in Fasta or GeneBank format,
+and use the above analyzis to print out the longest sub-sequence that appears twice.
+
+Then come up with some other "interesting feature" of sequences and add that analyzis too. Make both analyzis optional
+and let the user control which one is done: (assuming this second analyzis is called `blabla` you could use the program like this:
+
+```
+python analyze.py FILE --duplicate --blabla
+```
+
+What is an "interesting feature" is up to you. It can be a real, scientifically valuable feature, but if that's too difficult it can
+be some simpe feature like the repetition we have.
+
+Include a `README.md` file and the `requirements.txt` file if necessary.
+
+* Dead-line 2025.01.12 22:00
+
+
