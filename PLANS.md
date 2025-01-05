@@ -1,6 +1,8 @@
 
-## Day 8
+## Day 10
 
-* [Regular Expressions](https://slides.code-maven.com/python/regex)
+* Function definitions, go over other subjects.
+* Code reading (of projects from last year or that of BioPython).
+
 
 

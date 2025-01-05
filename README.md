@@ -519,4 +519,18 @@ For example you can take the number guessing game and convert it to work in eith
 
 * Project proposal dead-line: 2025.01.13 22:00
 
+## Day 9
 
+
+* [video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59ca576c-0a71-4eba-9693-b25c00b1434d)
+
+* [Regular Expressions](https://slides.code-maven.com/python/regex)
+
+* [ASCII](https://en.wikipedia.org/wiki/ASCII)
+* [Unicode](https://home.unicode.org/)
+* [Big O notation and the complexity of algorithms](https://en.wikipedia.org/wiki/Big_O_notation)
+* re.compile
+
+### Assignment (day 9)
+
+TBD
