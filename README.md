@@ -552,3 +552,16 @@ Include a `README.md` file and the `requirements.txt` file if necessary.
 * Dead-line 2025.01.12 22:00
 
 
+
+## Day 10
+
+* [video](https://weizmann.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=868a5f67-652b-4ce6-8035-b26300a6c49e)
+* [PyData Tel Aviv](https://www.meetup.com/pydata-tel-aviv/)
+* [Functions](https://slides.code-maven.com/python/functions)
+* Presentation of Liron and Hadar
+
+
+### Assignment (day 10)
+
+* Project dead-line: 2025.02.03 22:00
+
