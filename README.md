@@ -200,6 +200,8 @@ GitHub, GitHub Pages
     * CPU (speed, number of cores)
     * GPU
 
+* Webiste moved to [github-pages-wis-2024-11](https://szabgab.github.io/github-pages-wis-2024-11/) - [source](https://github.com/szabgab/github-pages-wis-2024-11)
+
 ### Assignment (day 1)
 
 * If you don't have one yet create an account on GitHub.
